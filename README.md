@@ -1,6 +1,6 @@
 # Portafolio de Herbert Bustamante
 
-¡Bienvenido a mi portafolio! Este proyecto es una aplicación web desarrollada con React y Vite, diseñada para mostrar mis habilidades.
+¡Bienvenido a mi portafolio! Este proyecto es una aplicación web desarrollada con React y Vite.
 
 ## Instrucciones para ejecutar el proyecto
 
