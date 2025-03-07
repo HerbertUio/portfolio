@@ -16,7 +16,7 @@ Asegúrate de tener instalado lo siguiente en tu sistema:
 ### Pasos para configurar el proyecto
 
 1. **Clona el repositorio**
-2. npm install
-3. npm install react-icons
+2. **npm install**
+3. **npm install react-icons**
 ### Para correr el proyecto
-1. npm run dev
+1. **npm run dev**
